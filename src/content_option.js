@@ -1,38 +1,33 @@
-const logotext = "JOHN";
+const logotext = "RITANKAR";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Ritankar",
+    description: "I’m  Ritankar  data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Ritankar",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I also love designing packaging",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
-};
+    description: "Welcome to my portfolio app. I hope you like the UI",
+    your_img_url: "https://images.unsplash.com/photo-1631792510680-8883d3d26270",}
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "A bit about my self",
+    aboutme: "Well I am a pre-final year student at Jadavpur University currently mastering my React skills",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Packaging R&D Intern",
+        where: "Emami Limited",
+        date: "June 2024 - July 2024",
     },
+    
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Citizen Scientist",
+        where: "NASA",
+        date: "April-2024-August 2024",
     },
 ];
 
@@ -41,7 +36,7 @@ const skills = [{
         value: 90,
     },
     {
-        name: "Djano",
+        name: "Tensorflow",
         value: 85,
     },
     {
@@ -53,7 +48,7 @@ const skills = [{
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "SQL",
         value: 85,
     },
 ];
@@ -136,9 +131,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "ritankar04@gmail.com",
+    YOUR_FONE: "+91-7595875833",
+    description: "Feel free to contact me  ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
