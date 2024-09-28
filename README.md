@@ -1,6 +1,5 @@
-### Description
-
-A simple portfolio template for developer/designers built with React. 
+Deployed link
+https://ritankarsportfolio-ritankars-projects-271935ad.vercel.app/
 
 ### [live preview](https://ubaimutl.github.io/react-portfolio/)
 
@@ -11,8 +10,6 @@ A simple portfolio template for developer/designers built with React.
 - Fully Responsive
 - Multi-Page Layout
 - Contact Form With EmailJs
-- React-Bootstrap
-- Edit Content From One Place
 
 ### Setup
 
